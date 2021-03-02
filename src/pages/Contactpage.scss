@@ -1,0 +1,23 @@
+.contact {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.our-links {
+    margin-top: 4rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 1px solid #eeeeee;
+    outline: none;
+}
+
+.home__footer {
+    position: fixed;
+    bottom: 0;
+    margin-top: 2rem;
+    background-color: #333;
+    color: #eeeeee;
+    width: 100%;
+    font-size: 1.3rem;
+    text-align: center;
+}

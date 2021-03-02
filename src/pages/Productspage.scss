@@ -1,0 +1,25 @@
+.product__grid {
+	display: grid;
+	margin-top: 3rem;
+	grid-template-columns: repeat(4, 1fr);
+}
+.product__image {
+	width: 50%;
+}
+.product__name {
+	margin-left: 2rem;
+	margin-top: 2rem;
+	font-size: 1.7rem;
+}
+.product__info {
+	margin-left: 2rem;
+	margin-top: 2rem;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #eee;
+}
+.product__price {
+	margin-left: 2rem;
+	margin-top: 2rem;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px #eee;
+}

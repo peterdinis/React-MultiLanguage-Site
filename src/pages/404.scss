@@ -1,0 +1,18 @@
+.error {
+    margin-top: 2rem;
+    text-align: center;
+
+    .returnhome {
+        margin-top: 2rem;
+
+        .link {
+            color: #333;
+            text-decoration: none;
+            font-size: 1.2rem;
+
+            &:hover {
+              color: #333; 
+            }
+        }
+    }
+}
